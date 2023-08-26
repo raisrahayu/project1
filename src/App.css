@@ -1,0 +1,17 @@
+.background {
+  height: 100vh;
+  background: url(./assets/background.jpg);
+  background-size: cover;
+}
+
+.trending {
+  height: auto;
+  background: url(./assets/borobudur.jpg);
+  background-size: cover;
+}
+
+.destination {
+  height: auto;
+  background: url(./assets/toraja.jpg);
+  background-size: cover;
+}
